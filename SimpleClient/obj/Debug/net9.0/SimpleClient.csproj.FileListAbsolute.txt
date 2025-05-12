@@ -1,0 +1,14 @@
+C:\Users\AP37576\Async API\SimpleClient\bin\Debug\net9.0\SimpleClient.exe
+C:\Users\AP37576\Async API\SimpleClient\bin\Debug\net9.0\SimpleClient.deps.json
+C:\Users\AP37576\Async API\SimpleClient\bin\Debug\net9.0\SimpleClient.runtimeconfig.json
+C:\Users\AP37576\Async API\SimpleClient\bin\Debug\net9.0\SimpleClient.dll
+C:\Users\AP37576\Async API\SimpleClient\bin\Debug\net9.0\SimpleClient.pdb
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.AssemblyInfoInputs.cache
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.AssemblyInfo.cs
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.dll
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\refint\SimpleClient.dll
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.pdb
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\SimpleClient.genruntimeconfig.cache
+C:\Users\AP37576\Async API\SimpleClient\obj\Debug\net9.0\ref\SimpleClient.dll

@@ -1,0 +1,3 @@
+@echo off
+echo Starting Simple Client...
+dotnet run --project SimpleClient/SimpleClient.csproj

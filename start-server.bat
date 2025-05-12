@@ -1,0 +1,3 @@
+@echo off
+echo Starting Inventory Service...
+dotnet run --project InventoryService/InventoryService.csproj

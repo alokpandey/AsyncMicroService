@@ -1,0 +1,3 @@
+@echo off
+echo Starting Simple Client in Error Testing Mode...
+dotnet run --project SimpleClient/SimpleClient.csproj test-errors
