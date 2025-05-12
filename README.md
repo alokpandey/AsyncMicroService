@@ -99,22 +99,22 @@ The InventoryService exposes the following endpoints:
 ### Process Inventory
 - **URL**: `/api/inventory/processInventory`
 - **Method**: POST
-- **Query Parameters**: 
+- **Query Parameters**:
   - `errorFlag` (optional): Type of error to simulate (VALIDATION, NOTFOUND, AUTH, DB, PROCESSING)
-- **Success Response**: 
+- **Success Response**:
   - Code: 202 Accepted
   - Content: `{ "jobId": "guid-here" }`
 
 ### Register Webhook
 - **URL**: `/api/inventory/registerWebhook`
 - **Method**: POST
-- **Request Body**: 
+- **Request Body**:
   ```json
   {
     "callbackUrl": "http://localhost:8084/webhook"
   }
   ```
-- **Success Response**: 
+- **Success Response**:
   - Code: 200 OK
   - Content: `{ "webhookId": "guid-here" }`
 
@@ -157,6 +157,4 @@ For error scenarios, the payload includes error information:
 - If you see connection errors, check that the ports (5232 for server, 8084 for client webhook) are available
 - To restart the system, stop both the client and server (Ctrl+C) and start them again
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
