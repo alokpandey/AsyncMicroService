@@ -7,8 +7,6 @@ This project demonstrates an asynchronous API implementation using Kafka for mes
 
 ## System Architecture
 
-![Architecture Diagram](architecture.png)
-
 The system follows this workflow:
 1. Client registers a webhook with the server
 2. Client calls the `processInventory` endpoint
